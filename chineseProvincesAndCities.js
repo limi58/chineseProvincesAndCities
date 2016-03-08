@@ -1,4 +1,4 @@
-let ChinaSiteArray = [{
+const sites = [{
      name: "北京",
      cities: ["东城区","西城区","崇文区","宣武区","朝阳区","海淀区","丰台区","石景山区","通州区","平谷区","顺义区","怀柔区","昌平区","门头沟区","房山区","大兴区","密云县","延庆县"]
 }, {
@@ -99,4 +99,4 @@ let ChinaSiteArray = [{
      cities: ["花地玛堂区", "圣安多尼堂区", "大堂区", "望德堂区", "风顺堂区", "嘉模堂区", "圣方济各堂区", "路氹城"]
 }]
 
-module.exports = ChinaSiteArray;
+module.exports = sites
